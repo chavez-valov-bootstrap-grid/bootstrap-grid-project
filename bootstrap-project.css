@@ -1,21 +1,23 @@
 
-
 img {
     height: 80px;
     width: 80px;
 }
+
 .navbar {
     font-family: 'abel', sans-serif;
 }
 
 h1 {
     font-size: 45px;
-    font-family: 'Anton',sans-serif;
+    font-family: 'Anton', sans-serif;
     text-align: center;
 }
+
 body {
     background-color: #F0F0F0;
 }
+
 .circle1 {
     border-radius: 50%;
     height: 105px;
@@ -28,8 +30,9 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    font-family: 'Anton',sans-serif;
+    font-family: 'Anton', sans-serif;
 }
+
 .circle2 {
     border-radius: 50%;
     height: 105px;
@@ -42,8 +45,9 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    font-family: 'Anton',sans-serif;
+    font-family: 'Anton', sans-serif;
 }
+
 .circle3 {
     border-radius: 50%;
     height: 105px;
@@ -56,8 +60,9 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    font-family: 'Anton',sans-serif;
+    font-family: 'Anton', sans-serif;
 }
+
 .circle4 {
     border-radius: 50%;
     height: 105px;
@@ -70,10 +75,8 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    font-family:'Anton',sans-serif;
+    font-family: 'Anton', sans-serif;
 }
-
-
 
 
 .badge {
@@ -88,8 +91,7 @@ body {
 }
 
 
-
-.figure-img.img-thumbnail{
+.figure-img.img-thumbnail {
 
 
     background-color: #E6E6E6;
